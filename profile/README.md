@@ -1,12 +1,15 @@
-System measurements for BSD operating systems.
+# About This GitHub Organisation
 
-<!--
+We are building the next generation of tools for gaining insights into
+system behavior.
 
-**Here are some ideas to get you started:**
+Notable repositories:
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- [Enhancement Proposals][gh-ep] : This repository holds proposals
+  for significant changes to Mensurae's APIs, implementation,
+  documentation, and organisational processes.
+
+  The enhancement process is modelled after the [IETF RFC process][ietf-rfc].
+
+  [ietf-rfc]: https://www.ietf.org/standards/process/informal/
+  [gh-ep]: https://github.com/mensurae/enhancement-proposals/
